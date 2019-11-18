@@ -18,6 +18,10 @@
 
 ## 爱游 页面/操作预览
 
-![image]()
+![image](https://github.com/saberShenFeng/tourist/blob/master/images/5.5-0.png)
+![image](https://github.com/saberShenFeng/tourist/blob/master/images/5.5-1.jpg)
+![image](https://github.com/saberShenFeng/tourist/blob/master/images/5.5-2.jpg)
+![image](https://github.com/saberShenFeng/tourist/blob/master/images/5.5-3.jpg)
+![image](https://github.com/saberShenFeng/tourist/blob/master/images/5.5-4.jpg)
 
 
